@@ -1,6 +1,6 @@
 # Agent guide for Swift and SwiftUI
 
-This repository contains an Xcode project written with Swift and SwiftUI. Please follow the guidelines below so that the development is build on modern, safe API usage.
+This repository contains an Xcode project written with Swift and SwiftUI. Please follow the guidelines below so that the development is built on modern, safe API usage.
 
 
 ## Role
